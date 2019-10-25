@@ -1,0 +1,3 @@
+[submodule "hugo-data-to-pages"]
+	path = hugo-data-to-pages
+	url = https://github.com/chris-79/hugo-data-to-pages
